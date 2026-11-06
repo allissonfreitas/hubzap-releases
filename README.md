@@ -2,9 +2,9 @@
 
 **Atenda com agilidade. Mantenha o WhatsApp pessoal separado do trabalho.**
 
-O HubZap foi criado para quem atende clientes ou presta suporte e prefere não abrir o WhatsApp particular no mesmo navegador que usa para trabalhar. No Windows e no Linux, você pode manter as contas **Pessoal** e **Empresa** em sessões independentes, na mesma janela, com ferramentas para facilitar a rotina.
+O HubZap foi criado para quem atende clientes ou presta suporte e prefere não abrir o WhatsApp particular no mesmo navegador que usa para trabalhar. No Windows, no Linux e no macOS, você pode manter as contas **Pessoal** e **Empresa** em sessões independentes, na mesma janela, com ferramentas para facilitar a rotina.
 
-**[↓ Baixar HubZap para Windows ou Linux](https://github.com/allissonfreitas/hubzap-releases/releases/latest)** · **[Agendar uma conversa pelo Instagram ↗](https://www.instagram.com/allisson.ai/)**
+**[↓ Baixar HubZap para Windows, macOS ou Linux](https://github.com/allissonfreitas/hubzap-releases/releases/latest)** · **[Agendar uma conversa pelo Instagram ↗](https://www.instagram.com/allisson.ai/)**
 
 ## O que o HubZap ajuda você a fazer
 
@@ -20,6 +20,10 @@ O HubZap foi criado para quem atende clientes ou presta suporte e prefere não a
 ## Baixar o HubZap
 
 **[Baixar instalador Windows 0.4.4](https://github.com/allissonfreitas/hubzap-releases/releases/download/v0.4.4/HubZap-Setup-0.4.4.exe)**
+
+**macOS 0.4.4:** [Apple Silicon (M1, M2, M3 e posteriores)](https://github.com/allissonfreitas/hubzap-releases/releases/download/v0.4.4/HubZap-0.4.4-mac-arm64.dmg) · [Mac Intel](https://github.com/allissonfreitas/hubzap-releases/releases/download/v0.4.4/HubZap-0.4.4-mac-x64.dmg)
+
+Abra o DMG adequado ao seu Mac e arraste o HubZap para **Aplicativos**. Esta compilação ainda não tem notarização da Apple, e as atualizações no Mac são instaladas manualmente. O botão **Atualizar** leva à página oficial dos downloads.
 
 Para Linux ou para consultar a versão mais recente, abra a [última versão da edição AFATEC](https://github.com/allissonfreitas/hubzap-releases/releases/latest) e escolha o arquivo em **Assets**:
 
